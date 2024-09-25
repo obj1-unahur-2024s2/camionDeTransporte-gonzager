@@ -107,4 +107,5 @@ object embalajeSeguridad {
 object cosaNulleable {
     method peso()= 0
     method peligrosidad() = 0
+    
 }
